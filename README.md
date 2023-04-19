@@ -1,2 +1,3 @@
-# Sample-Terminal
-A sample terminal coded in HTML, CSS &amp; JS.
+# Sample Terminal
+
+A sample terminal coded in HTML, CSS & JS.
